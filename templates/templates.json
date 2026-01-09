@@ -1,0 +1,7 @@
+{
+  "invoice": "Hi {name},\\n\\nThanks for your message. We have received your invoice. Our finance team will verify and process it within 2\u20133 business days.\\n\\nBest regards,\\nOperations",
+  "complaint": "Hi {name},\\n\\nWe're sorry about the inconvenience. We've logged your case and will share a resolution/ETA within 24 hours.\\n\\nBest regards,\\nSupport",
+  "inquiry": "Hi {name},\\n\\nThanks for reaching out. Please share quantity and timeline so we can tailor a proposal.\\n\\nBest regards,\\nSales",
+  "purchase_order": "Hi {name},\\n\\nThanks for the PO. We've begun processing and will share confirmation and ship date shortly.\\n\\nBest regards,\\nOrder Management",
+  "quotation": "Hi {name},\\n\\nThanks for the RFQ. We'll send a formal quotation with pricing and lead times within 24 hours.\\n\\nBest regards,\\nSales"
+}
